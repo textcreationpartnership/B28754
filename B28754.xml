@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered for the encrease and preservation of the timber in the new forest.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28754</idno><idno type="EEBO-CITATION">99885917</idno>
+  <idno type="VID">188510</idno>
+  <idno type="EEBO-PROQUEST">2240885349</idno>
+  
+            <idno type="STC">Wing R542G</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.16[7]</idno>
+            <idno type="STC">ESTC R225189</idno>
+            <idno type="PROQUEST">ocm99885917</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885917e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188510)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:1[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered for the encrease and preservation of the timber in the new forest.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Forests and forestry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188510:1"/>
+            <head>REASONS HUMBLY OFFERED For the Encrease and Preservation of the Timber in the <hi>New Forest.</hi>
+            </head>
+            <p>THat the best, cheapest, and most likely way of Raising Timber in the <hi>New Forest,</hi> is by Transplanting young Trees all over the said Forest, to such particular spots and pieces of Ground, where the Soil is most proper for the same; and in pre<g ref="char:EOLhyphen"/>serving the same with, and among the Bushes; and not by Inclosing, Plowing, and Sowing the Forest.</p>
+            <p>There have been tryals formerly made by Inclosures, and the Ground sown with Acorns, any of which never grew, or came to any thing.</p>
+            <p>That the Forest, supposed to be 85454 Acres, consists in the four sorts of ground, and of the several Quantities following; In Inclosed Lands, lying in several Parishes, Villages and Townships, within the bounds of the Forest, and in the Keepers Railes, and in <hi>New Park,</hi> 25000 Acres; In Heath, Furse, and boggy ground about two thirds of the rest of the Forest being 40000 Acres, and in Woods and Covert Ground 10000 Acres.</p>
+            <p>That no part of this ground is fit for Plowing or Sowing, such thereof as is not inclosed, being part full of Roots of old Trees, and the rest barren and boggy ground Ground.</p>
+            <p>That the Residue being 10454 Acres of Pasture, a great part thereof is under Water in the Winter time, and therefore unfit to bear Timber,</p>
+            <p>That on the same the Commoners feed yearly 20000 young Cattle, besides Horses, Colts, and the Kings Deer.</p>
+            <p>That the inclosing 6000 Acres thereof, will deprive the Commoners of their Passure, and most certainly occasion the many great Losses of which they complain, without raising Timber<g ref="char:EOLhyphen"/>trees.</p>
+            <p>That a great cause of hindring the rising of the young Trees is the Pigs which now run in Forest all the year, by their digging up and eating the Acrons and young Shootes.</p>
+            <p>To prevent the same, the Forest may be cleared of Pigs, and be always kept (except in the pan<g ref="char:EOLhyphen"/>nage time.)</p>
+            <p>The burning and cutting down of Bushes and Fern (which preserve the young Shootes, the making unlawful Cole-fires, and the imprudent, and wasteful cutting of Browse-wood and Lop<g ref="char:EOLhyphen"/>ping of Trees, are great causes of hindring the rising of young Trees, and destruction of the Timber, which for the future may be prevented.</p>
+            <p>The Keepers and Officers may take care to preserve the young Trees which may be done without an inclosure.</p>
+            <p>The Keepers (who best know the places proper to bear Timber) will undertake to raise year<g ref="char:EOLhyphen"/>ly in the said Forest 5000 young Trees, for a reasonable Salary for their care and pains of remo<g ref="char:EOLhyphen"/>ving and planting the same in a convenient and proper Soil, and preserving them with Bushes, which will be far cheaper to the King, and no loss to the Commoners.</p>
+            <p>There now are 10000 young Oaks growing on 1000 Acres, prese<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved by the care of some of the Keepers.</p>
+            <p>This will be done without cutting down any Timber now growing and will be a more certain way for raising and preserving Timber, than inclosing ground and sowing Acorns, which will never grow in the greatest part of the Forest ground.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:188510:2"/>
+            <p>REASONS Humbly Offer'd For the Encrease and Preservation of the Timber in the New Forest.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
